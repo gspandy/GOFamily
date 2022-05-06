@@ -1,0 +1,1 @@
+import{o as e,c as r}from"./app.e38c627f.js";import{_ as c}from"./plugin-vue_export-helper.21dcd24c.js";const o={};function t(n,_){return e(),r("h1",null,"\u9274\u6743\u6388\u6743\u9879\u76EE")}var f=c(o,[["render",t]]);export{f as default};

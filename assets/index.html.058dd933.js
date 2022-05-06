@@ -1,0 +1,1 @@
+const e={key:"v-0fed7f7a",path:"/system/%E5%AE%9E%E6%88%98/hui/",title:"hui",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[{level:2,title:"\u7279\u5F81",slug:"\u7279\u5F81",children:[]}],git:{updatedTime:1651516229e3,contributors:[{name:"shgopher",email:"shgopher@foxmail.com",commits:1}]},filePathRelative:"system/\u5B9E\u6218/hui/README.md"};export{e as data};
